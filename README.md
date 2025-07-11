@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Oryvexa/oryvexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Personal Website
 
-Here are some ideas to get you started:
+This is the source code for my personal website hosted on GitHub Pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Folder Structure
+- `index.html` – Main landing page
+- `/css/` – Stylesheets
+- `/js/` – JavaScript files
+- `/images/` – Images used on the site
+
+## 🚀 How to Use
+Simply open `index.html` in any web browser or view it live at the link above.
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## 📌 Notes
+This website is hosted using GitHub Pages. You can fork the repo to build your own static site.
+
